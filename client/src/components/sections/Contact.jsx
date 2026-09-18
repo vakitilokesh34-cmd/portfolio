@@ -252,7 +252,7 @@ const Contact = () => {
             </div>
             <a
               href={`mailto:${portfolioData.personal.email}?subject=Opportunity%20for%20Vakiti%20Lokesh`}
-              className="mt-4 px-6 py-2.5 rounded-full bg-white text-dark-950 hover:bg-slate-200 text-xs font-bold transition-all shadow-lg hover:shadow-white/20 flex items-center gap-2 w-max"
+              className="mt-4 px-6 py-2.5 rounded-full bg-white text-dark-900 hover:bg-slate-200 text-xs font-bold transition-all shadow-lg hover:shadow-white/20 flex items-center gap-2 w-max"
             >
               <span>Send Email</span>
               <ExternalLink size={13} />

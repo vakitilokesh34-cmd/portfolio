@@ -101,7 +101,7 @@ const Skills = () => {
               onClick={() => setActiveTab('all')}
               className={`px-4 py-1.5 rounded-full text-xs font-semibold uppercase tracking-wider transition-all ${
                 activeTab === 'all'
-                  ? 'bg-white text-dark-950 shadow-md'
+                  ? 'bg-white text-dark-900 shadow-md'
                   : 'glass-card text-dark-200 hover:text-white'
               }`}
             >
